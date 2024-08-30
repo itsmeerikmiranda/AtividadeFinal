@@ -1,0 +1,1 @@
+SELECT * FROM tincphpdb01.reservas;
